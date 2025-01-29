@@ -13,7 +13,7 @@
 
 - I’m currently learning **TensorFlow, PyTorch, Scikit-learn, Keras, XGBoost, LightGBM**
 
-- 📄 Know about my experiences [https://www.dropbox.com/preview/NILANSH_RESUME.pdf?context=content_suggestions&role=personal](https://www.dropbox.com/scl/fi/8vzrouh2dws2y64v3cbyh/NILANSH_RESUME.pdf?rlkey=c7xmkcbw4gu3kgjluvv5c7473&st=mvaacy7n&dl=0)
+- 📄 Know about my experiences https://www.dropbox.com/scl/fi/ff8cy81ttxaij6gv0df38/NILANSH_RESUME-1.pdf?rlkey=bg1jdjx8j8gdenemh6ov1qwmu&st=uk37go4z&dl=0
 
 <br/>
  
