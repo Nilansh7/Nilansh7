@@ -24,16 +24,17 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nilansh7/output/github-snake-dark.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Nilansh7/output/github-snake.svg">
-  </picture>
-  <br/><br/>
-</div>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nilansh7/Nilansh7/output/github-snake-dark.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Nilansh7/Nilansh7/output/github-snake.svg">
+</picture>
+<br/><br/>
+
+
+
 
 
 <h3 align="left">Connect with me:</h3>
