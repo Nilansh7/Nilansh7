@@ -14,4 +14,4 @@ One of my favorite projects is my **AI Agent Suite**, where I let AI take the wh
 
 - I have **two cats** who occasionally review my code (or just sit on my keyboard).  
 
-> “Why just use AI when you can build your own army of agents?”
+                                           “Why just use AI when you can build your own army of agents?”
