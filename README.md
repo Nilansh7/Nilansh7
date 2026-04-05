@@ -1,7 +1,6 @@
 ### Hey there! I'm Nilansh
 
 I'm a tech enthusiast and AI/ML builder based in India. I love imagining AI systems and turning them into reality. If an idea pops into my head, chances are I'll build it and ship it.
-
 My focus is on **AI agents, machine learning, and building smart systems that actually do things**.
 
 - **AI & ML:** Python, TensorFlow, PyTorch, Hugging Face, LangChain, OpenAI API, Scikit-learn  
